@@ -176,4 +176,4 @@ Skier.prototype.copy = function(){
 	return copy;
 };
 
-var skier = new Skier(0,0,color(0,50,100));
+var skier = new Skier(0,0,color(128,0,128));
